@@ -19,6 +19,7 @@ public class Mas_1 {
 				System.out.print(array[i] + " ");
 			}
 			System.out.println();
+			System.out.println();
 			System.out.print("Введите значение отклонения: ");
 			K = scanner.nextInt();
 			System.out.println("Массив отклонений");
