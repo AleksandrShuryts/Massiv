@@ -11,7 +11,7 @@ public class Mas_1 {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		Random random = new Random();	
-		int[] array = new int[19];
+		int[] array = new int[25];
 			int K;
 			int sum = 0;
 			for (int i = 0; i < array.length; i++) {
